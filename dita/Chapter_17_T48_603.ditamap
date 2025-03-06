@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE map
+  PUBLIC "-//OASIS//DTD DITA Map//EN" "C:\GSA-Acquisition-tools\TOOLS\StructureGSA_FAR\xml\DITA_1.2\app\technicalContent\dtd\map.dtd">
+<map outputclass="ecfr" otherprops="String2Xref">
+   <title> CHAPTER 17—OFFICE OF PERSONNEL MANAGEMENT</title>
+   <topicref navtitle="Volume Number"
+             href="VolumeChapter_17_T48_603.dita"
+             props="CHAPTER 17—OFFICE OF PERSONNEL MANAGEMENT"
+             outputclass="Volume">
+      <topicref navtitle="Chapter Title"
+                href="Chapter_17_T48_603.dita"
+                props="CHAPTER 17—OFFICE OF PERSONNEL MANAGEMENT"/>
+   </topicref>
+   <topicref navtitle=""
+             href="Subchapter_A_T48_60316.dita"
+             outputclass="SubChapter"
+             props="SubChapter A">
+      <topicref navtitle="PARTS 1700-1732 [RESERVED]&#xA;&#xA;&#xA;"
+                href="Part_1700-1732_T48_603161.dita"
+                outputclass="Part"
+                props="PARTS 1700-1732 [RESERVED]"/>
+      <topicref navtitle="PART 1733—PROTESTS, DISPUTES, AND APPEALS&#xA;"
+                href="Part_1733_T48_603162.dita"
+                outputclass="Part"
+                props="Part 1733">
+         <topicref navtitle="Subpart 1733.2—Disputes and Appeals"
+                   href="Subpart_1733_2_T48_6031621.dita"
+                   outputclass="SubPart"
+                   props="Subpart 1733.2">
+            <topicref navtitle="1733.203   Applicability."
+                      href="Section_1733_203_T48_603162111.dita"
+                      props="1733.203"
+                      outputclass="Section"/>
+            <topicref navtitle="1733.203-70   Designation of the Interior Board of Contract Appeals to decide OPM appeals."
+                      href="Section_1733_203-70_T48_603162112.dita"
+                      props="1733.203-70"
+                      outputclass="Section"/>
+            <topicref navtitle="1733.209   Suspected fraudulent claims."
+                      href="Section_1733_209_T48_603162113.dita"
+                      props="1733.209"
+                      outputclass="Section"/>
+            <topicref navtitle="1733.211   Contracting officer's decision."
+                      href="Section_1733_211_T48_603162114.dita"
+                      props="1733.211"
+                      outputclass="Section"/>
+            <topicref navtitle="1733.212   Contracting officer's duties upon appeal."
+                      href="Section_1733_212_T48_603162115.dita"
+                      props="1733.212"
+                      outputclass="Section"/>
+            <topicref navtitle="1733.214   Contract clause."
+                      href="Section_1733_214_T48_603162116.dita"
+                      props="1733.214"
+                      outputclass="Section"/>
+         </topicref>
+      </topicref>
+      <topicref navtitle="PARTS 1734-1799 [RESERVED]&#xA;&#xA;&#xA;"
+                href="Part_1734-1799_T48_603163.dita"
+                outputclass="Part"
+                props="PARTS 1734-1799 [RESERVED]"/>
+   </topicref>
+</map>
